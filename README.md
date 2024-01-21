@@ -15,7 +15,5 @@ Skills: C /C++/ JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/balukanagala)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/subrahmanyam004/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/thisisbalu_04/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SubbuBalu04)  
 
-My Github Stats :
 [![balukanagala's GitHub | Stats](https://stats.quine.sh/balukanagala/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=balukanagala)
-[![balukanagala's GitHub | Languages Over Time](https://stats.quine.sh/balukanagala/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=balukanagala)
 
