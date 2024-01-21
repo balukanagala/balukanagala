@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, This is Subrahmanyam!
+#### Pursuing undergraduation in Computer Science and Engineering(AIML)
+Hello! 👋 I'm Balasubrahmanyam Kanagala. 
+Embarking on the journey of mastering full-stack web development.
+Interested in Machine Learning.
+This is my GitHub profile, where you can find some of my projects and contributions.
 
-<!--
-**balukanagala/balukanagala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: C /C++/ JS / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Frontend Projects 
+- 🌱 I’m currently learning Data Structures and Algorithms 
+- 😄 Pronouns: He/him. 
+- ⚡ Fun fact: The term "full stack developer" was coined by Facebook engineer Carlos Bueno in a 2010 blog post, highlighting the evolution of developers who work on both front-end and back-end technologies, essentially covering the entire "stack" of a web application. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/balukanagala)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/subrahmanyam004/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/thisisbalu_04/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SubbuBalu04)  
+
