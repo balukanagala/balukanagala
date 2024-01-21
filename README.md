@@ -6,7 +6,7 @@
 <li>This is my GitHub profile, where you can find some of my projects and contributions.</li>
 </ul>
 
-Skills: C / C++ / JS / HTML / CSS
+### Skills: C / C++ / JS / HTML / CSS
 
 - 🔭 I’m currently working on Frontend Projects 
 - 🌱 I’m currently learning Data Structures and Algorithms 
@@ -17,4 +17,3 @@ Skills: C / C++ / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balukanagala)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=balukanagala&show_icons=true)  
-
